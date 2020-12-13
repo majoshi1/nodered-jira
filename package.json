@@ -1,16 +1,16 @@
 {
-  "name": "node-red-contrib-jira-jql",
+  "name": "node-red-contrib-jira-rest",
   "version": "0.0.1",
   "description": "Nodes for using JIRA REST API",
   "license": "GPL-3.0",
   "author": {
-    "name":"Michael Kolb",
-    "email":"dev@db1smk.com",
-    "url":"https://github.com/kwave/"
+    "name":"Manohar Joshi",
+    "email":"majoshi1@@yahoo.com",
+    "url":"https://github.com/majoshi1/"
   },
   "repository":{
     "type":"git",
-    "url":"https://github.com/kwave/nodered-jira.git"
+    "url":"https://github.com/majoshi1/nodered-jira.git"
   },
   "dependencies": {
     "request": "2.79.0",
